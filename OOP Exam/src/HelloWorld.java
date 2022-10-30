@@ -9,5 +9,9 @@ public class HelloWorld {
 	public void Hello() {
 		System.out.println("Xin loi be yeu");
 	}
+	public void HelloCC() {
+		System.out.println("Yeu em");
+	}
+
 
 }
